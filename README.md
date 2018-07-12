@@ -4,7 +4,7 @@ Slides and sources for talks I've given
 
 | Date | Title | Sources | Event | Location |
 |------|-------|---------|-------|----------|
-| 2018-07-11 | Animations: Swift vs React Native | TBP | [Booklyn Swift](https://www.meetup.com/Brooklyn-Swift-Developers/events/252404798) | NYC |
+| 2018-07-11 | Animations: Swift vs React Native | [Slides](https://speakerdeck.com/fjcaetano/animations-swift-vs-react-native) | [Booklyn Swift](https://www.meetup.com/Brooklyn-Swift-Developers/events/252404798) | NYC |
 | 2018-04-18 | Tailored Fastlane | Slides [PT](https://speakerdeck.com/fjcaetano/fastlane-sob-medida) / [EN](https://speakerdeck.com/fjcaetano/tailored-fastlane) | [TDC](http://thedevconf.com.br/tdc/2018/florianopolis/trilha-ios) | Florianópolis |
 | 2017-07-27 | React Native 4 Dummies | [Slides](https://speakerdeck.com/fjcaetano/react-native-4-dummies) | [CocoaHeads](https://www.meetup.com/AppsterdamBR/events/242002712/) | SP |
 | 2017-03-02 | Bugreport 101 | [Slides](https://speakerdeck.com/fjcaetano/bugreport-101) | [CocoaHeads](https://www.meetup.com/AppsterdamBR/events/236412987/) | SP |
